@@ -2,7 +2,7 @@ import time
 import numpy as np
 
 def print_catty(catty):
-    print('    ', catty, end='\r')
+    print('  ', catty, end='\r')
 
 class Catty:
     def __init__(self):
